@@ -1,3 +1,6 @@
+> **통합 안내:** 현재 개발은 [DYNOSTY/dynosty](https://github.com/DYNOSTY/dynosty)에서 진행합니다.
+> 아래 내용은 이전 4개 레포 구성의 기록입니다. 최신 구조와 역할은 통합 레포 README를 확인해 주세요.
+
 # DYNOSTY Infra — 배포와 서버 운영
 
 DYNOSTY는 웹 브라우저에서 즐기는 3D 생존·도시 경영 게임입니다.
